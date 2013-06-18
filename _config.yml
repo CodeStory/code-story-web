@@ -1,0 +1,6 @@
+safe:        true
+pygments:    true
+debug:       true
+keywords:    keyword1, keyword2
+description: DESCRIPTION
+analytics:   UA-XXXXXXXX-X
